@@ -3,9 +3,9 @@
     "listVersion":"54",
     "examList":{
         "0":{"examid":"95","exam_name":"OG1","is_pay":2,"introduction":"","level":"","question_number":"102","order_number":"49","version":"3","url":"","auth":0},
- "1":{"examid":"95","exam_name":"OG2","is_pay":2,"introduction":"","level":"","question_number":"102","order_number":"49","version":"3","url":"","auth":0},
- "2":{"examid":"95","exam_name":"OG3","is_pay":2,"introduction":"","level":"","question_number":"102","order_number":"49","version":"3","url":"","auth":0},
- "3":{"examid":"95","exam_name":"OG4","is_pay":2,"introduction":"","level":"","question_number":"102","order_number":"49","version":"3","url":"","auth":0},
+ "1":{"examid":"93","exam_name":"OG2","is_pay":2,"introduction":"","level":"","question_number":"102","order_number":"49","version":"3","url":"","auth":0},
+ "2":{"examid":"1","exam_name":"OG3","is_pay":2,"introduction":"","level":"","question_number":"102","order_number":"49","version":"3","url":"","auth":0},
+ "3":{"examid":"2","exam_name":"OG4","is_pay":2,"introduction":"","level":"","question_number":"102","order_number":"49","version":"3","url":"","auth":0},
  "4":{"examid":"95","exam_name":"Khan1","is_pay":2,"introduction":"","level":"","question_number":"102","order_number":"49","version":"3","url":"","auth":0},
  "5":{"examid":"95","exam_name":"Khan2","is_pay":2,"introduction":"","level":"","question_number":"102","order_number":"49","version":"3","url":"","auth":0},
  "6":{"examid":"95","exam_name":"Khan3","is_pay":2,"introduction":"","level":"","question_number":"102","order_number":"49","version":"3","url":"","auth":0},
