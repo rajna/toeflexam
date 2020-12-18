@@ -1,5 +1,5 @@
 {"message":"success","code":200,"status":1,"data":{"listVersion":"54",
-  "examList":{"0":{"exameid":"223","examename":"71C - Jun 2013","url":"https://rajna.github.io/toeflexam/223.zip"},"1":{"exameid":"329","examename":"74C - Jun 2017","url":"https://rajna.github.io/toeflexam/329.zip"}
+  "examList":{"0":{"examid":"223","exam_name":"71C - Jun 2013","url":"https://rajna.github.io/toeflexam/223.zip"},"1":{"exameid":"329","examename":"74C - Jun 2017","url":"https://rajna.github.io/toeflexam/329.zip"}
   }}}
 
 
