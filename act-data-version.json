@@ -1,27 +1,27 @@
 [
 {
-exameid: "330",
-examename: "74F - Apr 2017",
-is_pay: 1
+"exameid": "330",
+"examename": "74F - Apr 2017",
+"is_pay": 1
 },
 {
-exameid: "329",
-examename: "74C - Jun 2017",
-is_pay: 0
+"exameid": "329",
+"examename": "74C - Jun 2017",
+"is_pay": 0
 },
 {
-exameid: "223",
-examename: "71C - Jun 2013",
-is_pay: 0
+"exameid": "223",
+"examename": "71C - Jun 2013",
+"is_pay": 0
 },
 {
-exameid: "241",
-examename: "70C - Jun 2012",
-is_pay: 0
+"exameid": "241",
+"examename": "70C - Jun 2012",
+"is_pay": 0
 },
 {
-exameid: "328",
-examename: "入学测试题",
-is_pay: 0
+"exameid": "328",
+"examename": "入学测试题",
+"is_pay": 0
 }
 ]
