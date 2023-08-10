@@ -2,7 +2,7 @@
 "data":{
     "listVersion":"54",
     "examList":{
-        "0":{"examid":"95","exam_name":"OG1","is_pay":2,"introduction":"","level":"","question_number":"102","order_number":"49","version":"3","url":"","auth":0},
+         "0":{"examid":"96","exam_name":"2022年8月 HK","is_pay":2,"introduction":"","level":"","question_number":"102","order_number":"49","version":"3","url":"","auth":0},
  "1":{"examid":"93","exam_name":"OG2","is_pay":2,"introduction":"","level":"","question_number":"102","order_number":"49","version":"3","url":"","auth":0},
  "2":{"examid":"1","exam_name":"OG3","is_pay":2,"introduction":"","level":"","question_number":"102","order_number":"49","version":"3","url":"","auth":0},
  "3":{"examid":"2","exam_name":"OG4","is_pay":2,"introduction":"","level":"","question_number":"102","order_number":"49","version":"3","url":"","auth":0},
@@ -35,7 +35,8 @@
 "30":{"examid":"29","exam_name":"16年5月亚太","is_pay":2,"introduction":"","level":"","question_number":"102","order_number":"49","version":"3","url":"","auth":0},
 "31":{"examid":"30","exam_name":"16年5月北美","is_pay":2,"introduction":"","level":"","question_number":"102","order_number":"49","version":"3","url":"","auth":0},
 "32":{"examid":"31","exam_name":"16年3月北美","is_pay":2,"introduction":"","level":"","question_number":"102","order_number":"49","version":"3","url":"","auth":0},
-"33":{"examid":"32","exam_name":"18年10月北美","is_pay":2,"introduction":"","level":"","question_number":"102","order_number":"49","version":"3","url":"","auth":0}
+"33":{"examid":"32","exam_name":"18年10月北美","is_pay":2,"introduction":"","level":"","question_number":"102","order_number":"49","version":"3","url":"","auth":0},
+        "34":{"examid":"95","exam_name":"OG1","is_pay":2,"introduction":"","level":"","question_number":"102","order_number":"49","version":"3","url":"","auth":0},
     }
     
 }}
