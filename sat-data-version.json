@@ -8,7 +8,7 @@
         "3":{"examid":"100","exam_name":"sat-practice-test-3-digital","is_pay":2,"introduction":"","level":"","question_number":"0","order_number":"0","version":"3","url":"","auth":0},
         "4":{"examid":"101","exam_name":"sat-practice-test-4-digital","is_pay":2,"introduction":"","level":"","question_number":"0","order_number":"0","version":"3","url":"","auth":0},
         "5":{"examid":"98","exam_name":"2023年6月Digital","is_pay":2,"introduction":"","level":"","question_number":"0","order_number":"0","version":"3","url":"","auth":0},
-         "6":{"examid":"102","exam_name":"2023年5月 US","is_pay":2,"introduction":"","level":"","question_number":"0","order_number":"0","version":"3","url":"","auth":0},
+         "6":{"examid":"102","exam_name":"2023年5月 US Reading","is_pay":2,"introduction":"","level":"","question_number":"0","order_number":"0","version":"3","url":"","auth":0},
         "7":{"examid":"32","exam_name":"18年10月北美","is_pay":2,"introduction":"","level":"","question_number":"102","order_number":"49","version":"3","url":"","auth":0},
 "8":{"examid":"14","exam_name":"18年10月亚太","is_pay":2,"introduction":"","level":"","question_number":"102","order_number":"49","version":"3","url":"","auth":0},
 "9":{"examid":"15","exam_name":"18年5月北美","is_pay":2,"introduction":"","level":"","question_number":"102","order_number":"49","version":"3","url":"","auth":0},
